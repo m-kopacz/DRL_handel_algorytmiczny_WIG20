@@ -1,0 +1,1 @@
+# DRL_handel_algorytmiczny_polski_rynek_akcji
