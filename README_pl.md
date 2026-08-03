@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for WIG20 Stock Trading
 
-🇬🇧 English version available ![here](README_en.md)
+🇬🇧 English version available ![here](README.md)
 
 **Temat pracy:** „Głębokie uczenie ze wzmocnieniem w handlu algorytmicznym: analiza efektywności w zmiennych uwarunkowaniach koniunkturalnych polskiego rynku akcji”
 
