@@ -1,7 +1,5 @@
 # Deep Reinforcement Learning for WIG20 Stock Trading
 
-Opis ten dotyczy projektu zrealizowanego w ramach pracy magisterskiej obronionej w Szkole Głównej Handlowej w Warszawie (SGH) na kierunku Analiza Danych - Big Data. 
-
 **Temat pracy:** „Głębokie uczenie ze wzmocnieniem w handlu algorytmicznym: analiza efektywności w zmiennych uwarunkowaniach koniunkturalnych polskiego rynku akcji”
 
 ---
